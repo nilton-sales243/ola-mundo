@@ -3,4 +3,4 @@
 
 repositorio criado durante uma aula ao vivo
 
-essa linha eu alteri no readme que imprecionante
+essa linha eu alterei no readme que imprecionante
